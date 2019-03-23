@@ -1,0 +1,17 @@
+Required Software to run the website.
+1)Wamp http://www.wampserver.com/en/
+
+Download the software from the provided link and install it with all the default settings
+
+After installing the software, save the smartdustbin folder in the 'wamp/www'
+
+Run the 'WampServer' then, open web browser and type in the url 'localhost/phpmyadmin' a login page will open 
+username=root
+leave the password section blank and press the enter.
+A window will open on it go to the 'import tab', press choose file button and add the 'smartdustbin.sql' file.
+
+Now we are ready to test the website. In the url section of the browser open 'localhost/smart_dustbin' this will take you to the home page of the website,
+their you have to first login using the credential
+username=Coca Cola
+password=123
+Now you could to different link in the navbar and see the details of dustbins and companies.
